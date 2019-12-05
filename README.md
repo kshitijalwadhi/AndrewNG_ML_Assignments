@@ -14,4 +14,4 @@ Implementing linear regression (both Univariate and Multivariate) using Gradient
 
 
 ![EX1](./machine-learning-ex1/Screenshots/LinearRegression1.jpg "EX1_1")
-![EX1](./machine-learning-ex1/Screenshots/LinearRegression2.jpg "EX1_2")
+

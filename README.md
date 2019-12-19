@@ -15,3 +15,9 @@ Implementing linear regression (both Univariate and Multivariate) using Gradient
 
 ![EX1](./machine-learning-ex1/Screenshots/LinearRegression1.jpg "EX1_1")
 ![EX1](./machine-learning-ex1/Screenshots/LinearRegression2.jpg "EX1_2")
+
+### EX-2
+
+Implementing and visualising logistic regression using Gradient Descent and fminfunc as optimiser.
+
+![EX2](./machine-learning-ex2/Screenshots/LogisticRegression.png "EX2")

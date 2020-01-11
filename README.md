@@ -24,6 +24,12 @@ Implementing and visualising logistic regression using Gradient Descent and fmin
 
 ### EX-3
 
-Implementing 'One vs All' logistic regression to classify handwritten number (MNIST dataset). Training set accuracy: 95.04%
+Implementing One vs All logistic regression to classify handwritten number (MNIST dataset). Training set accuracy: 95.04%
 
 ![EX3](./machine-learning-ex3/Screenshots/MultiClassClassification.png "EX3")
+
+### EX-4
+
+Implementing Neural Network to classify handwritten numbers (MNIST dataset) using feedforward and backpropagation algorithm.
+
+![EX4](./machine-learning-ex4/Screenshots/NeuralNetwork.jpg "EX4")

@@ -33,3 +33,9 @@ Implementing One vs All logistic regression to classify handwritten number (MNIS
 Implementing Neural Network to classify handwritten numbers (MNIST dataset) using feedforward and backpropagation algorithm.
 
 ![EX4](./machine-learning-ex4/Screenshots/NeuralNetwork.jpg "EX4")
+
+### EX-5
+
+Learning and tuning parameters such as lambda for regularisation via cross Validation by plotting Validation Curve.
+
+![EX5](./machine-learning-ex5/Screenshots/Bias_Variance.jpg "EX5")

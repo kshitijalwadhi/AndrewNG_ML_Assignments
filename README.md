@@ -1,4 +1,4 @@
-# This repo contains the solutions to Andrew NG's course on Machine Learning. 
+# This repo contains the solutions to Andrew NG's course on Machine Learning (Stanford - Coursera).  
 (Will be updated in accordance with progress in course)
 
 

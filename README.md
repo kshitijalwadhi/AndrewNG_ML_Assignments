@@ -39,3 +39,9 @@ Implementing Neural Network to classify handwritten numbers (MNIST dataset) usin
 Learning and tuning parameters such as lambda for regularisation via cross Validation by plotting Validation Curve.
 
 ![EX5](./machine-learning-ex5/Screenshots/Bias_Variance.jpg "EX5")
+
+### EX-6
+
+Implementing a linear SVM for random dataset using RBF(Radial Basis Function) and also a spam email classifier.
+
+![EX6](./machine-learning-ex6/Screenshots/SVM.jpg "EX6")

@@ -1,6 +1,6 @@
-# This repo contains the solutions to Andrew NG's course on Machine Learning (Stanford - Coursera).  
-(Will be updated in accordance with progress in course)
+# This repo contains the solutions to Andrew NG's course on Machine Learning (Stanford - Coursera).
 
+(Will be updated in accordance with progress in course)
 
 ## The problem statements are enclosed in .pdf format inside each directory.
 
@@ -11,7 +11,6 @@ The programs can be run easily inside Octave or MATLAB.
 ### EX-1
 
 Implementing linear regression (both Univariate and Multivariate) using Gradient Descent as optimiser as well as verification using Normal Equation.
-
 
 ![EX1](./machine-learning-ex1/Screenshots/LinearRegression1.jpg "EX1_1")
 ![EX1](./machine-learning-ex1/Screenshots/LinearRegression2.jpg "EX1_2")
@@ -45,3 +44,15 @@ Learning and tuning parameters such as lambda for regularisation via cross Valid
 Implementing a linear SVM for random dataset using RBF(Radial Basis Function) and also a spam email classifier.
 
 ![EX6](./machine-learning-ex6/Screenshots/SVM.jpg "EX6")
+
+### EX-7
+
+Implementing K-Means algorithm to cluster some unorganised data. Also implementing Principal Component Analysis(PCA) to performm dimensionality reduction.
+
+![EX7_1](./machine-learning-ex7/Screenshots/Capture1.PNG "EX7_1")
+
+![EX7_2](./machine-learning-ex7/Screenshots/Capture2.PNG "EX7_2")
+
+![EX7_3](./machine-learning-ex7/Screenshots/PCA.jpg "EX7_3")
+
+![EX7_4](./machine-learning-ex7/Screenshots/Capture5.PNG "EX7_4")

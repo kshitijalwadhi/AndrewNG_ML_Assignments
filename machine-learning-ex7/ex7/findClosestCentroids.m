@@ -22,7 +22,18 @@ idx = zeros(size(X,1), 1);
 %
 
 
-
+for i=1:size(X,1)
+    distance = sum ((X(i,:)-centroids(1,:)).^2);
+    idx(i,1)=1;
+    for j=1:K
+        temp = sum((X(i,:) - centroids(j,:)).^2);
+        if (temp<distance)
+            idx(i,1)=j;
+            distance=temp;
+        end
+    end
+end
+ 
 
 
 
@@ -30,4 +41,3 @@ idx = zeros(size(X,1), 1);
 % =============================================================
 
 end
-

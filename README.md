@@ -1,6 +1,6 @@
 # This repo contains the solutions to Andrew NG's course on Machine Learning (Stanford - Coursera).
 
-(Will be updated in accordance with progress in course)
+~~(Will be updated in accordance with progress in course)~~
 
 ## The problem statements are enclosed in .pdf format inside each directory.
 

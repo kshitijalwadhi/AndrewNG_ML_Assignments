@@ -56,3 +56,9 @@ Implementing K-Means algorithm to cluster some unorganised data. Also implementi
 ![EX7_3](./machine-learning-ex7/Screenshots/PCA.jpg "EX7_3")
 
 ![EX7_4](./machine-learning-ex7/Screenshots/Capture5.PNG "EX7_4")
+
+### EX-8
+
+Implementing the anomaly detection algorithm and applying it to detect failing servers on a network. Also implementing collaborative filtering to build a recommender system for movies.
+
+![EX8](./machine-learning-ex8/Screenshots/AnomalyDetection.jpg "EX8")
